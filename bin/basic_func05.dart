@@ -2,7 +2,7 @@
 
 // Return the value double type.
 double func(){
-    rturn 1.4;
+    return 1.4;
 }
 void main(){ 
 
