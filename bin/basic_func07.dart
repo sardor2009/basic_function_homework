@@ -2,5 +2,13 @@
 
 //  Create function arguments a.
 
-//  Return the value a.
-void main() {}
+//  Return the va
+String func(){
+    return 'a';
+}
+
+
+
+void main() {
+print(func());
+}
