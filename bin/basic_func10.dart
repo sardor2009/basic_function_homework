@@ -3,4 +3,10 @@
 //  Create function arguments a.
 
 //  Return the negative value of a.
-void main() {}
+int func(a){
+    return a = a;
+}
+
+void main() {
+print(func(5));
+}
